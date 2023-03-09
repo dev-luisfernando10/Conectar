@@ -1,0 +1,59 @@
+Nessa aula vamos aprender como funciona a web
+
+voce quer entrar num site em entao abre seu site num caminho simples
+
+-entra no navegador
+-entra no site
+
+mas tem o caminho avançado
+
+-voce digita o URL  Ex:https://www.rocketseat.com.br
+que e um protrocolo HTTP (hypertext Transfer Protocol)
+A funçao e trocar mensagens entre computadores
+
+e temos a URL que e o Uniform Resource Locator
+que e um localizador de recurso e o recurso e o site que voce deseja acessar
+
+E iniciada uma linha de comunicao atraves o protocolo TCP. 
+entre o seu computador(cliente) 
+ate o computador que tem a pagina(servidor)
+
+o CLiente e o Computador dispositivo ou aplicativo que voce fez o pedido de entrar no site(browser)
+
+o Servidor e um COmputador configurado para receber os pedidos e enviar as respostas aos pedidos
+
+e o TCp e Transmission Control Protocol que tem a funçao de garantir os pacotes cheguem corretamente ao destino(cliente)
+
+
+O endereço e convertido em um Ip(Ex:76 ,76 ,21 ,21 )atraves do DNS
+
+O ip e o Internet Protocol com a funçao de ser o endereço/endereçamento dos servidores
+
+e o DNS que e Domain Name servers 
+
+Ele e um "Dicionario" Ele tem a funçao de converter o Dominio(https://www.rocketseat.com.br) 
+em Ip(76 , 76 , 21 , 21)
+
+Seu pedido esta percorrendo diversos Proxies
+
+PRoxy e qualquer dispositivo no meio do caminho
+modem, roteador , outro computadores,
+a sua funçao e o encaminhamento dos pacotes
+
+Servidor analisa seu pedido e te da uma resposta neste caso, Positiva
+
+O caminho de volta e semenhante ao de ida , passando pela linha de comunicaçao que foi criada
+
+O broweser recebe os pedaços os pedaços e monta a tela do site pra voçe
+
+Esse Processo Acontece muitas vezes , pois cada recurso (html,css javascrip,imagem.....)e feita uma nova conexao.
+
+
+
+
+
+
+
+
+
+

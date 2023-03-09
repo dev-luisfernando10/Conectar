@@ -1,0 +1,49 @@
+nessa aula ele fala como programar e como um computador funcionar
+
+programar e entender sobre algoritmos e logica de programaçao 
+
+os algoritmos sao passos para resolver um problema é uma sequencia logica 
+
+a logica de programaçao e a aplicaçao dos passos(construçao do algoritmos)
+
+o computador diferente da gente ele n pensa ele processa, calcula
+ele so recebe ordens(linguagem de programaçao)
+voce precisa entender o problema e dar as ordens a ele 
+
+dar instruçoes sobre programar e como fazer uma receita de bolos
+voce precisa de certos ingredientes para fazer essa receita 
+e fazer ela passo a passo
+isso requere dados como:
+-strings
+-numericos
+-Boleano
+
+o Computador manipula dados a nosso favor assim e so nos fazermos a transformaçao daqueles dados
+("uma mistura")
+
+Alguns Exemplos:
+
+Fazer Cafe
+-Cafe
+-agua
+-açucar
+-cafeteira eletrica
+
+Eles seguem as ordens certinha pois assim funciona a logica de programaçao
+se trocar uma ordem dessa receita ira se bagunçar e dar errado
+
+Mais um Exemplo 
+
+Andar na Rua: 
+
+temos q saber q o computador e Burro ele nao pensa e nao tem personalidade ou pensamentos
+ele so recebe ordens
+
+andar na rua e muito facil mas para o computador ele precisa de uma serie de ordens como
+
+-olhe pros dois lados
+-ande colocando um pe na frente do outro  
+-cuidado com buracos 
+- a velocidade que vc vai andar pra um carro n te acertar
+-movimento do joelho q faz andar
+etc...

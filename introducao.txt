@@ -1,0 +1,5 @@
+web = rede
+
+web seria uma maneira de estruturar trocas de informaçoes por computadores(conversas, videos, chamadas etc)
+
+ele disse q ele ira ensinar a nos como fazer essas trocas de informaçoes pelo computador e como funciona isso
