@@ -1,0 +1,44 @@
+software e um conjunto de instruçoes que permite controlar um aparelho eletronico ,
+ele e a parte logica do computador(dentro do computador)
+
+para usar o software precisamos do hardware pois se nao tivermos a parte fisica(hardware) a parte pratica(software) tbm nao teremos
+
+
+ software tbm estao em hardware , como  a web cam que e um hardware que podemos tocar e usala na vida , mas dentro dela tem um software de como funcionar
+
+ software = programa(portugues)
+
+ o software e um conjunto de instruçoes reunidas em um programa que controlam ou comandam uma peça eletronica como ( computadores, drones , cameras , celulares etc)
+
+ O firmware tem sua funçao de armazenar todas as informaçoes para que o equipado funcione corretamento
+
+ o Firmware e armazenado permanentemente num circuito integrado(chip) de memoria de hardware no momento da fabricaçao do componente
+
+ o Firmware e um software 
+
+ dentro de teclados , mouse etc tem o chip de memoria que dentro dele tem o Firmware
+
+ ao conectarmos um teclado no computador que da a informaçao ao computador dizendo que isso e um teclado e o firmware
+
+
+ Driver tem por funçao e ser uma ponte entre o sistema operacional e o firmware dos dispositivos eletronicos
+
+ O driver e instalado no computador quando ha a necessidade de se conectar com um novo dispositivo
+
+quando ha uma conexao de um mouse ou um dispositivos eletronicos  em seu computador nesse dispositivo tera um driver para instalar no computador e assim voce podera usar seu aparelho
+
+O sistema operacional e responsavel pelo gerenciamento de todo o hardware do seu computador. E ele que vai dizer, por exemplo , para o programa em execuçao, quando podera utilizar o processador e por quanto tempo, quanto de memoria Ram sera usada , gerenciamento de SSD/HD, etc
+
+
+
+Programas 
+
+Software -> Programa de computador
+
+Program -> programa de computador ou aplicativo
+
+Um programa e um conjunto de instruçoes que descrevem uma tarefa e/ou trabalho especifico no seu computador
+
+sao ferramentas desenhadas para o usuario realizar açoes
+
+os programas sao usados a todo momento como o google que vc usa o discord o whatsapp e muito mais

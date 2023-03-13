@@ -1,0 +1,39 @@
+Memoria Ram
+
+a memoria ram e um espaço temporario de informaçoes do sistema operacional e de aplicativos em usados
+
+quando uma tarefam e concluida por algum software os arquivos que estavam em uso sao movidos da memoria Ram o HD ou SSD para serem mantidas
+
+Quando o computador e desligado a memoria e limpa automatico
+
+ex: vc esta fazendo uma tarefa da escola e abre o word e esta fazendo o seu trabalho, aquilo so nao se apaga sozinho por que o word esta usando essa memoria , no momento que vc desliga o computador SEM salvar isso no word a memoria ram vai limpar tudo que voce escreveu
+
+
+
+Hd e o SSD sao dispostivos de armazenamento de dados
+
+O HD usa pratos mecanicos e um cabeçote movel de leitura/gravaçao para acessar dados
+
+O SDD nao possui partes moveis , apenas chips de memoria.
+
+independentemente se o computador esta desligado ou nao as informaçoes contidas no HD ou SDD permanecem guardadas
+
+
+O HD e o SDD tem diferenças
+
+O SDD computa mais rapidos os dados assim ligando o pc , abrindo sites , escutando musicas ele sera mais rapido para abrir e executar a tarefa
+
+e o HD nao e muito rapido para processar dados, mas o armazenamento dele e incrivel sendo maior que o Do SSD
+
+
+Processador
+
+o Processador e o celebro do computador
+
+Transforma informaçoes em uma linguagem propria que o computador entende -> 010101(Codigo Binario)
+
+Tem o FOrmato de um chip
+
+ele transforma dados em informaçoes por exemplos carregar paginas,fazer download ,abrir arquivos e executar programas  
+
+a Velocidade que seu computador abre ou executa programas e em parte responsabilidade do processador (Ele tambem recebe ajuda do SSD ou do HD)

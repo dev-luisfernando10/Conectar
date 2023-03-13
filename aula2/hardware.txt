@@ -1,0 +1,5 @@
+Na tecnologia chamamos de hardware tudo que faz parte do computador, tudo aquilo que conseguimos tocar .
+ex: tela , teclado , modem, impressora, mouse , pen drive , camera , microfone e etc(fora do computador)
+
+Periferios e " um dispositivo auxiliar usado para enviar ou receber informaçoes do computador"
+um exemplo e o monitor que recebe informaçao do computador e mostra , o mouse envia  informaçoes com clicks e movimentos , assim como a web cam que manda informaçoes atraves de movimentos de oque esta mostrando.
