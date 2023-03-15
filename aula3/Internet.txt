@@ -1,0 +1,54 @@
+A internet sao redes iterligadas pelo mundo todo
+
+a rede tem como objetivo de interligar diversos computadores com diversas informaçoes
+
+As internet e feita de cabos que conectam o Mundo Inteiro
+
+existem cabos submarinos que sao cabos que  se ligam pelo mundo inteiro pelo mar
+
+A internet Pode "Cair"?
+
+Rede de computadores e a conexao de dispositivos para permitir a transmissao de dados 
+
+a comunicaçao na internet e feita de protocolos(Conjuntos de regras)
+
+ao enviarmos uma mensagem para alguem (Por exemplo no Whatsapp) voce manda a mensagem ela passa pelo roteador, ela passa pelo modem , passa pela internet depois ele envia a mensagem a pessoa
+
+A funçao do switch e dividir a internet do roteador para outros aparelhos conectados
+
+quando agente solicita uma compra em algum aplicativo tambem tem um jeito para vir ate nos
+
+primeiro agente solicita o pedido  essa solicitaçao passa pelo switch e vai pro roteador , o roteador entende pra onde tem que enviar essa mensagem e pra quem ele manda pro servidor que vai ser recebido pelo switch depois passa pelo roteador da pessoa do aplicativo cai no celular dela a mensagem e ela ve se ela aceita ou nao .
+e muito mais dificil do que agente pensavamos
+
+Ip e MAC address
+
+internet protocol(IP) e um numero identificador dado ao seu computador, ou roteador, pelo provedor de internet no momento que se conecta a rede    
+
+Mac Address e um numero de serie identificador gravado no dispositivo de rede
+
+atraves do ip que seu computador pode enviar e receber dados na internet 
+
+Obs: o Ip muda mas o MAC Adress nao  
+
+ao entrarmos num site ele conhece agente atraves do ip 
+
+Um Servidor e um computador equipado com um ou mais processadores, portas de comunicaçao, softwares, algum sistemas para armazenamentos de dado como HDs e/ou SDDs
+
+Ele fornece serviços  a uma rede de computadores , chamada de cliente, Esses serviços podem ser ,  por exemplo , hospedagem de site,provedor de emails, entre outros 
+
+Os Servidores DNS(domais Name System, ou sistema de nomes de dominios)sao os responsaveis por localizar e traduzir para numero IP os endereços dos sites que digitamos
+
+O comando Ping e para sabermos o tempo de resposta de algum site
+
+O DNS permite que acesse um site digitando um endereço nominal em lugar de numeros e pontos.
+
+http
+
+Hypertext Transfer Protocol , sigla HTTP 
+
+HTTP e um protocolo de transferencia de dados 
+
+No momento que o usuario digita uma URL em algum navegador , o navegador cria uma requisiçao HTTP e manda para o servidor correspondente ao IP da URL e entao o servidor responde atraves do HTTP enviando todas os dados necessarias para exibir o site ao usuario no navegador
+
+O HTTPS - Hypertext Transfer Protocol secure adiciona uma criptografia as informaçoes enviadas ou recebidas de um site 
