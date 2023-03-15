@@ -1,0 +1,139 @@
+Nessa aula agente vai  abortar varios conceitos  
+
+o objetivo do curso e deixar mais facil a linguagem de programaçao para voce(eu)
+
+
+O que e Codar?
+
+Escrever para o computador
+
+Seguir regras
+
+Linguagem Humana X maquina 
+
+Para desbloquear seu celular tera um codigo dentre essa açao
+
+esse sera um exemplo de codigo para desbloqueamento do seu celular
+
+if {input === password} {
+    unlockPhone{}    
+}   else {
+    tryAgain{} 
+}
+
+esse codigo e um Codar
+
+
+Curiosidade sobre codar 
+
+pessoa que criam codigos
+
+programadora desenvolvedora, dev , developer 
+
+codigo vs programador(por que e um desafio)
+
+codigos sao comandos,ordens,instruçoes ao computador 
+
+o computador ira traduzir o seu codigo 
+
+exsistem codigos em muito eletronicos 
+
+microondas , aviao , semafaros , roteadores 
+
+Codar E simples(facil)
+
+linguagem de programaçao?
+
+Usada para dar instrucoes ao computador 
+
+computador
+imagine o computador 
+
+input(enviar) output(devolver)
+
+executar tarefas e faz calculos 
+
+mas ele so entende uma lingua. A binaria
+
+
+Binario = 0 e 1
+
+Ligado e desligados 
+
+Bilhoes de disjuntores que ligam e desligam 
+
+mas e impossivel para o ser humano escrever bilhoes de 0 e 1
+
+
+Abstraçao 
+
+transformaçao de linguagens 
+
+podemos entender uma linguagem de programaçao 
+
+o computador tambem pode entender 
+
+nos precisamos aprender a linguagem de programaçao 
+
+ingles 
+
+existem inumeras 
+
+sao ferramentas para um determinados objetivos 
+
+-Games, I.A , Machine Learning, Web
+
+Low Level 
+
+significa baixo nivel 
+
+mais proxima da maquina, do Binario
+- mais dificil de escrever e ler 
+mas ela e mais rapida 
+
+existe pouca interferencia de traduçao 
+
+a programaçao pelo baixo nivel 
+
+Ex:Assembly 
+
+High-Level 
+
+SIgnifica alto nivel 
+
+mais proxima da comunicaçao humana 
+
+if, else , function , object , class 
+
+leva mais tempo para a maquina traduzir e entender 
+-compilar(traduzir) ou interpretar 
+
+nada mais que milissegundos  
+
+exemplos:
+
+Javascript , python, rust
+
+Sintaxe 
+
+Conjunto de regras de escrita
+
+cada linguagem tem suas regras
+
+Simbolos:
+{} () ; = ++ -- 
+
+Palavras reservadas:
+if, else , while, for , var , let . const 
+
+Conclusao 
+
+Dizer ao computador oque fazer
+
+traduzir pensamentos
+
+resolver problemas
+
+ferramentas
+
+programar e facilitar a comunicacao entre a humanidade e maquinas
