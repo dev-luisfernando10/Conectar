@@ -1,0 +1,156 @@
+Sistemas operacionas 
+
+-Windows
+-Mac
+-Linux
+-Android
+
+Aprenderemos tudo sobre Sistemas Operacionas como conceito , como e feito e etc
+
+Oque e um sistema operacional
+
+a tela de inicio no seu aparelho isso e um sistema operacional carregando
+
+O Sistema operacional e a 
+
+Interface entre o usuario e a maquina
+
+Programa que ira controlar seu aparelho(computador,celular)
+-Gerenciamento de dispositivos(hardware)
+-Gerenciamento de aplicativos e programas(software)
+-Gerenciamento de tarefas
+
+Conversa com o computador em linguagem de maquina  
+
+A Caracteristicas e Objetivos
+
+
+1- Facil entendimento para o usuario
+-Experiencia do usuario
+
+2-Controle de hardware
+-Uso de Perifericos
+-Memoria
+-hd 
+
+3- Gerenciamento de Softwares 
+-Programas
+
+Grupos de sistemas operacionais
+
+Unix
+-Linux
+-OS X(Mac)
+-Android 
+-IOS 
+
+
+Windows 
+-windows 7 
+-windows 10 
+-windows server
+
+
+Tipos De interfaces do usuario
+
+
+Gui
+    -Graphical User interfece 
+    - Interface grafica,elementos graficos
+        -Cursor do mouse ou touch
+        -area de trabalho
+        -criar arquivos e pastas
+
+
+Cli
+    -Command-Line Interface
+    -Linha de comando 
+    -emitir comandos em texto para o computador
+        -criar arquivos e pasta,por exemplo
+
+
+Modulos
+
+-kernel
+-gerenciador de processos
+-gerenciador de arquivos
+
+
+Kernel 
+
+-Componente central o Cerne do S.O 
+-Primeiro MOdulo a ser iniciado
+-permanece execumando enquando o S.O estiver ligado
+
+Responsabilidades 
+-Gerenciamento da memoria , processos,armazenamento e dispositivos
+
+
+
+                       Aplicaçoes do sistema
+                                ^ 
+                                |
+                                V 
+                             Kernel 
+                        |           |               |
+                        V           V               V
+                       Cpu        Memoria       Dispositivos
+
+
+
+Gerenciados de processos 
+
+processo e um programa em execucao
+
+agendamento de processos(scheduling)
+-qual processo que esta executando agora
+
+
+Thread
+-a divisao de um processo para a melhor performance
+-um pedacinho do processo 
+-prodera executar em paralelo
+
+O gerenciador de Arquivos 
+ou FIle System
+
+Organizaçao e armazenamento dos arquivos 
+
+diretorios(pastas)
+
+Tipos de sistemas de arquivos
+
+-Fat,NTFS 
+-ex13,ex14
+-HFS+, APFS
+
+Ferramentas de gerenciamentos
+
+-Tarefas(task manager , activity)
+-Pacotes(Chocolatey, brew , apt, snap)
+
+
+Duvidas Comuns 
+
+WIndows , linux , ou Mac para programar?
+- Use oque voce tiver melhor expericnecia 
+
+Devo mudar de sistema operacional para programar web?
+-nao 
+
+Se for programar aplicativos para funcionar somente em windows 
+-use o windows pois voce vai usalos para fazer o aplicativo para ele mesmo
+
+
+Revisao Pra voce nao ficar cansado de Ler Tio: 
+
+-Como operar um computador ou smartphone , precisamos de um sistema operacional 
+
+-ponte entre os usarios e a maquina 
+
+- existem diversos tipos e categorias em S.O 
+
+- Gerencia a maquina em diversos niveis
+    Dispositivos,processos,threads,multitasking
+
+-Provavelmente seu sistema atual vai servir para voce programar Para WEB 
