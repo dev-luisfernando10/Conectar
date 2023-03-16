@@ -1,0 +1,136 @@
+Tipos de Aplicaçoes web 
+
+Requisitos para este cursos 
+
+conhecimentos basico de computador 
+
+software e hardware 
+
+internet 
+
+programaçao para Web 
+
+
+WebPage 
+
+Pagina Web 
+
+Acessado pelo navegador 
+
+encontrado pelo endereço universal URL 
+
+Resposta dado pelo servidor e uma copia da pagina 
+
+HTML - Hyper Text Markup Language (base do site)
+
+CSS - Cascading Style Sheet (estilo)
+
+Javacript (parte logica)
+
+WebSites 
+
+Sites 
+
+Agrupamento ,Estruturado(arquitetado de varias paginas Web)
+
+Pode Ser 
+-estatico 
+-Dinamico
+
+Um Usuario comum nao sabe diferenciar entre estatico e dinamico
+
+
+O site estatico E um Site que tem Interaçao com um banco de dados
+
+Site Estatito 
+    -Paginas Estaticas 
+        -A pagina e sempre a mesma
+        -alteraçao direto no codigo e por quem criou 
+    -Nao interage Com o banco de dados 
+
+Site Dinamico e que se adapta conforme o pedido 
+    -Conteudo da pagina e dinamico 
+    -Interage com o banco de dados 
+        -Dados + modelos de pagina =  pagina dinamica
+    -Modificaçao sem precisar mexer no codigo 
+    - Com o mesmo modelo de pagina , e gerada uma pagina em tempo real 
+
+
+Web application
+
+um progama , um software que vive no servidor 
+    -linguagens de programaçao 
+    -banco de dados 
+Utilizado atraves de paginas WEB e pelo navegador 
+
+e mais complexo e possui mais requisitos 
+
+exemplos : facebook Gmail , YOutube , Figma 
+
+
+Desafios: 
+
+Adaptaçao nos diversos dispositivos(responsabilidade)
+
+performance 
+
+acessibilidade 
+    -isual , Auditiva, SEO 
+
+Front-end 
+
+CLiente(client-side)
+
+Browser 
+-digita a URL e faz um pedido (request) para o servidor 
+
+tecnologias 
+-html,css,js,imagens 
+
+-FrameWorks e bibliotecas
+
+
+Back-end 
+
+Servidor(server-side)
+
+Recebe o pedido do front-end 
+
+Entende e processa o pedido e devolve para o front-end 
+
+regras de nogocio na aplicaçao 
+
+tecnologias 
+-php,java,python,Javascript
+-banco de dados
+
+
+Aplicaçao Web Tradicional 
+
+Recarregar a pagina para ter conteudo 
+
+Servidor processa e devolve toda a pagina de uma so vez 
+
+
+SPA 
+
+Single page application 
+-sensaçao e de ter uma unica pagina 
+
+nao precisa recarregar a pagina para ter o conteudo atualizado 
+
+front-end e back-end sao aplicaçaoes diferentes 
+
+servidor responde a aplicaçao front-end 
+
+-front-end feito com uso de frameworks 
+-back-end e no formato de API 
+
+
+
+
+Alinhando minha jornada:
+
+Sites Estaticos Aplicaçao da WEB tradicional 
+
+Single page Application (SPA)
